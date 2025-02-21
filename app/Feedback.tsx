@@ -144,7 +144,7 @@ const Feedback = () => {
       >
         <Animated.Text
           entering={FadeInUp.delay(100)}
-          style={{ color: "white", fontWeight: "500", opacity: 0.6 }}
+          style={{ color: "white", fontWeight: "500", opacity: 0.8 }}
         >
           Welcome to
         </Animated.Text>
